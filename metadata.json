@@ -1,0 +1,6 @@
+{
+  "name": "Design Analyzer (Specs Edition)",
+  "description": "An expert graphic design critic app with a technical specs aesthetic. Upload designs for constructive, structured feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
